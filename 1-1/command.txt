@@ -1,0 +1,6 @@
+"({LWin}R)" : 윈도우키 + R
+"iexplore" + "{Enter}" : 입력후 엔터 
+"({LWin}{Up})" : 윈키 누르고 업키 
+"https://www.barobaro.info" + "{Enter}" : 
+이미지 선택 확인 
+이미지 왼쪽 클릭 
